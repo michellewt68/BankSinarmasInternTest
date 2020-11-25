@@ -1,4 +1,4 @@
-# BankSinarmasInternTest
+# Bank Sinarmas Intern Test
 Technical Test for Internship Bank Sinarmas 
 
 
